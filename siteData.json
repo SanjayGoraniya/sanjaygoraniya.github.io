@@ -33,40 +33,88 @@
         }],
         "otherProjects": [{
             "name": "Personal Website V1",
-            "url": "https://sanjaygoraniya.com",
-            "code": "https://github.com/sanjaygoraniya",
             "description": "My first portfolio website I designed and built in 2020. I learned quite a bit about HTML, CSS, and SEO. Since then, I think my web development and design skills have improved immensely.",
-            "used": ["Node", "Express", "Nunjucks","JavaScript", "jQuery", "HTML", "CSS"]
+            "used": ["Node", "Express", "Nunjucks","JavaScript", "jQuery", "HTML", "CSS"],
+            "links" : [
+                {
+                    "title": "Website",
+                    "url": "https://sanjaygoraniya.com"
+                },
+                {
+                    "title": "GitHub",
+                    "url": "https://github.com/sanjaygoraniya"
+                }
+            ]
         },{
             "name": "WhatsApp Clone - Design",
-            "url": "https://github.com/sanjaygoraniya",
-            "code": "https://github.com/sanjaygoraniya",
             "description": "Small CSS design project created during my free time.",
-            "used": ["JavaScript", "HTML", "CSS"]
+            "used": ["JavaScript", "HTML", "CSS"],
+            "links" : [
+                {
+                    "title": "Website",
+                    "url": "https://github.com/sanjaygoraniya"
+                },
+                {
+                    "title": "GitHub",
+                    "url": "https://github.com/sanjaygoraniya"
+                }
+            ]
         },{
             "name": "Blog management",
-            "url": "https://www.careerchips.com",
-            "code": "https://github.com/sanjaygoraniya",
             "description": "A complete solution to share knowledge, write blog, manage blog and profile.",
-            "used": ["Node", "JavaScript", "GraphQL", "MongoDB", "React"]
+            "used": ["Node", "JavaScript", "GraphQL", "MongoDB", "React"],
+            "links" : [
+                {
+                    "title": "Website",
+                    "url": "https://www.careerchips.com"
+                },
+                {
+                    "title": "GitHub",
+                    "url": "https://github.com/sanjaygoraniya"
+                }
+            ]
         },{
             "name": "Ecommerce–LuxyList",
-            "url": "https://www.careerchips.com",
-            "code": "https://github.com/sanjaygoraniya",
             "description": "LuxyList is e-commerce website like online store",
-            "used": ["RC(Reaction-Commerce)", "Node", "JavaScript", "HTML","CSS", "GraphQL", "MongoDB", "Next"]
+            "used": ["RC(Reaction-Commerce)", "Node", "JavaScript", "HTML","CSS", "GraphQL", "MongoDB", "Next"],
+            "links" : [
+                {
+                    "title": "Website",
+                    "url": "https://github.com/sanjaygoraniya"
+                },
+                {
+                    "title": "GitHub",
+                    "url": "https://github.com/sanjaygoraniya"
+                }
+            ]
         },{
             "name": "CareerChips",
-            "url": "https://www.careerchips.com",
-            "code": "https://github.com/sanjaygoraniya",
             "description": "This web application is using for hire IT resource.CareerChips doesn’t ask for any login and that benefits individuals to refer their friends.",
-            "used": [ "Node", "GraphQL", "JavaScript", "MongoDB", "React"]
+            "used": [ "Node", "GraphQL", "JavaScript", "MongoDB", "React"],
+            "links" : [
+                {
+                    "title": "Website",
+                    "url": "https://www.careerchips.com"
+                },
+                {
+                    "title": "GitHub",
+                    "url": "https://github.com/sanjaygoraniya"
+                }
+            ]
         },{
             "name": "CSGOClub",
-            "url": "https://github.com/sanjaygoraniya",
-            "code": "https://github.com/sanjaygoraniya",
             "description": "CSGOClub is a web application for multiple games. In this project more then 10(ten) games are developed.",
-            "used": ["Node", "Express", "MySQL", "JavaScript", "jQuery", "HTML", "CSS"]
+            "used": ["Node", "Express", "MySQL", "JavaScript", "jQuery", "HTML", "CSS"],
+            "links" : [
+                {
+                    "title": "Website",
+                    "url": "https://github.com/sanjaygoraniya"
+                },
+                {
+                    "title": "GitHub",
+                    "url": "https://github.com/sanjaygoraniya"
+                }
+            ]
         }],
         "social": [
             { 
