@@ -17,17 +17,17 @@
         },
         "experience": [{
             "company": "Techitree",
-            "url": "https://www.techitree.com/",
+            "url": "https://www.techitree.com",
             "time": "October 2019 - Present",
             "position": "MEAN Developer"
         },{
             "company": "AIS Technolabs",
-            "url": "https://www.aistechnolabs.com/",
+            "url": "https://www.aistechnolabs.com",
             "time": "April 2019 - October 2019",
             "position": "NodeJS Developer"
         },{
             "company": "IANT (Institute Of Advance Network Technology)",
-            "url": "https://www.iantindia.com/",
+            "url": "https://www.iantindia.com",
             "time": "June 2016 - July 2017",
             "position": "PHP Developer"
         }],
