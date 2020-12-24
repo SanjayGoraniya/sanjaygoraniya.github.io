@@ -89,7 +89,7 @@
             ]
         },{
             "name": "CareerChips",
-            "description": "This web application is using for hire IT resource.CareerChips doesn’t ask for any login and that benefits individuals to refer their friends.",
+            "description": "This web application is using for hire IT resource. CareerChips doesn’t ask for any login and that benefits individuals to refer their friends.",
             "used": [ "Node", "GraphQL", "JavaScript", "MongoDB", "React"],
             "links" : [
                 {
