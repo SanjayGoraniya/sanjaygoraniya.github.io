@@ -1,0 +1,39 @@
+<svg height="200" width="200" version="1.1" id="L2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">    
+    <style>
+        text {
+            font-size: 8px;
+        }
+    </style>
+
+    <circle fill="#aaa" stroke="#cccccc" stroke-width="4" stroke-miterlimit="10" cx="50" cy="50" r="48" />
+    <circle fill="none" stroke="#0a192f" stroke-width="2" stroke-miterlimit="10" cx="50" cy="02" r="0.8" />
+    <circle fill="none" stroke="#0a192f" stroke-width="2" stroke-miterlimit="10" cx="98" cy="50" r="0.8" />
+    <circle fill="none" stroke="#0a192f" stroke-width="2" stroke-miterlimit="10" cx="50" cy="98" r="0.8" />
+    <circle fill="none" stroke="#0a192f" stroke-width="2" stroke-miterlimit="10" cx="02" cy="50" r="0.8" />
+    
+    <text x="50%" y="22%" text-anchor="middle" fill="#000" stroke-width="0.1">Loading...</text>
+
+    <!-- Hour -->
+    <line fill="none" stroke-linecap="round" stroke="#0a192f" stroke-width="5" stroke-miterlimit="10" x1="50" y1="50" x2="49.5" y2="74">
+        <animateTransform attributeName="transform"  dur="12s" type="rotate" from="0 50 50" to="360 50 50" repeatCount="indefinite" />
+    </line>
+    <circle fill="#0a192f" stroke="none" cx="50" cy="50" r="3">
+            <!-- <animateTransform attributeName="transform" dur="1s" type="translate" values="0 10 ; 0 -10; 0 10" repeatCount="indefinite" begin="0.2"></animateTransform> -->
+    </circle>
+    
+    <!-- minutes -->
+    <line fill="none" stroke-linecap="round" stroke="#ffdc00" stroke-width="4" stroke-miterlimit="10" x1="50" y1="50" x2="85" y2="50.5">
+        <animateTransform attributeName="transform"  dur="6s" type="rotate" from="0 50 50" to="360 50 50" repeatCount="indefinite" />
+    </line>
+    <circle fill="#ffdc00" stroke="none" cx="50" cy="50" r="2.5">
+        <!-- <animateTransform attributeName="transform" dur="1s" type="translate" values="0 10 ; 0 -10; 0 10" repeatCount="indefinite" begin="0.2"></animateTransform> -->
+    </circle>
+    
+    <!-- seconds -->
+    <line fill="none" stroke-linecap="round" stroke="#FF0000" stroke-width="2" stroke-miterlimit="10" x1="50" y1="40" x2="49.5" y2="90">
+        <animateTransform attributeName="transform"  dur="1s" type="rotate" from="0 50 50" to="360 50 50" repeatCount="indefinite" />
+    </line>
+    <circle fill="#fff" stroke="none" cx="50" cy="50" r="1.5">
+        <!-- <animateTransform attributeName="transform" dur="1s" type="translate" values="0 10 ; 0 -10; 0 10" repeatCount="indefinite" begin="0.2"></animateTransform> -->
+    </circle>
+</svg>

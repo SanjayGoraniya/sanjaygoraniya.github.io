@@ -1,0 +1,32 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "short_name": "SanjayGoraniya",
+  "name": "SanjayGoraniya",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": ".",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "start_url": "/index.html",
+  "theme_color": "#AFAFBF",
+  "background_color": "#0A192F"
+}
