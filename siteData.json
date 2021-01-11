@@ -7,27 +7,35 @@
     "email": "sanjayrgoraniya@gmail.com",
     "cover": "/img/og.png",
     "logo": "/img/logo/logo1.png",
+    "siteMetadata": {
+        "title": "Sanjay Goraniya",
+        "description":
+            "Sanjay Goraniya is a software engineer specializing in building websites, applications, and everything in between.",
+        "siteUrl": "https://sanjaygoraniya.github.io",
+        "image": "/intro.png",
+        "twitterUsername": "@sanjayrgoraniya"
+    },
     "data": {
         "resume": "/resume.pdf",
         "skills": {
             "languages": ["JavaScript (ES6+)", "TypeScript", "PHP", "HTML", "CSS/Sass", "Python", "GraphQL"],
-            "frameworks": ["Node.js", "React", "Express", "jQuery", "Nunjucks", "Vue", "Wordpress", "Socket.IO"],
+            "frameworks": ["Node.js", "React", "Express", "jQuery", "Nunjucks", "Vue", "Wordpress", "Socket.IO", "Tailwind CSS"],
             "tools": ["Bash", "Git & Github", "Docker", "Chrome DevTools", "Postman", "MongoDB", "Passport.js","MySQL", "AWS", "Reaction Commerce"],
             "design": ["Sketch", "InDesign", "InVision", "Prototyping", "User Testing"]
         },
         "experience": [{
             "company": "Techitree",
-            "url": "https://www.techitree.com",
+            "url": "https://www.techitree.com/",
             "time": "October 2019 - Present",
             "position": "MEAN Developer"
         },{
             "company": "AIS Technolabs",
-            "url": "https://www.aistechnolabs.com",
+            "url": "https://www.aistechnolabs.com/",
             "time": "April 2019 - October 2019",
             "position": "NodeJS Developer"
         },{
             "company": "IANT (Institute Of Advance Network Technology)",
-            "url": "https://www.iantindia.com",
+            "url": "https://www.iantindia.com/",
             "time": "June 2016 - July 2017",
             "position": "PHP Developer"
         }],

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sanjay Goraniya</title>
+    <style>
+        body{text-align: center}
+        h1,noscript{font-size: 16px;font-weight: normal}
+    </style>
+</head>
+<body>
+    <!-- when JavaScript is disabled redirect user from any another page to this file link. -->
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <script>
+        const is = (v, t) => !!(typeof v === t);
+
+        const addElem = ({into:i = document.body, elem = 'div', ...o}) => {
+            const e = document.createElement(elem);
+            Object.keys(o).forEach((k) => e[k] = o[k]);
+            (i && is(i, "function")) ? i(e) : i.append(e);
+            return e;
+        }
+
+        const redirectToHome = () => window.location.href = '/';
+        addElem({
+            elem: "h1",
+            innerText: "When JavaScript is disabled redirect user from any another page to this file link."
+        });
+        addElem({
+            elem: "a",
+            innerText: "Home page",
+            href: '/'
+        });
+    </script>
+</body>
+</html>
