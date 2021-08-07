@@ -24,9 +24,14 @@
             "design": ["Sketch", "InDesign", "InVision", "Prototyping", "User Testing"]
         },
         "experience": [{
+            "company": "Stack Summation",
+            "url": "https://www.stacksummation.com",
+            "time": "May 2021 - Present",
+            "position": "Fullstack Developer"
+        },{
             "company": "Techitree",
             "url": "https://www.techitree.com/",
-            "time": "October 2019 - Present",
+            "time": "October 2019 - December 2020",
             "position": "MEAN Developer"
         },{
             "company": "AIS Technolabs",
