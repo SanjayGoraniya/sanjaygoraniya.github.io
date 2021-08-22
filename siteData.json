@@ -19,7 +19,7 @@
         "resume": "/resume.pdf",
         "skills": {
             "languages": ["JavaScript (ES6+)", "TypeScript", "PHP", "HTML", "CSS/Sass", "Python", "GraphQL"],
-            "frameworks": ["Node.js", "React", "Express", "jQuery", "Nunjucks", "Vue", "Wordpress", "Socket.IO", "Tailwind CSS"],
+            "frameworks": ["Node.js", "React", "Express", "jQuery", "Nunjucks", "Vue", "Wordpress", "Socket.IO", "Tailwind CSS", "Craft CMS"],
             "tools": ["Bash", "Git & Github", "Docker", "Chrome DevTools", "Postman", "MongoDB", "Passport.js","MySQL", "AWS", "Reaction Commerce"],
             "design": ["Sketch", "InDesign", "InVision", "Prototyping", "User Testing"]
         },
