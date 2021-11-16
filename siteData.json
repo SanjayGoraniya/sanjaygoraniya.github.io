@@ -27,7 +27,7 @@
             "company": "Stack Summation",
             "url": "https://www.stacksummation.com",
             "time": "May 2021 - Present",
-            "position": "Fullstack Developer"
+            "position": "Senior Full Stack Developer"
         },{
             "company": "Techitree",
             "url": "https://www.techitree.com/",
@@ -52,7 +52,7 @@
         },{
             "name": "Personal Website V1",
             "description": "My first portfolio website I designed and built in 2020. I learned quite a bit about HTML, CSS, and SEO. Since then, I think my web development and design skills have improved immensely.",
-            "used": ["Node", "Express", "Nunjucks","JavaScript", "jQuery", "HTML", "CSS"],
+            "used": ["JavaScript", "ReactJS", "HTML", "CSS", "axios", "React Context"],
             "links" : [
                 {
                     "title": "Website",
